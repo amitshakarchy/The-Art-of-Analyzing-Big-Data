@@ -40,6 +40,9 @@ In this question, we were asked to propose a method for finding remarkable perfo
 ## [Final Project](The_Airbnb_housing_market.ipynb)
 
 In this project, our main focus in on the exploration of the Airbnb housing market and its impact on the long-term rental market. We explored the Airbnb market, try to answer a few interesting questions, and compared the long term and the short term rental markets.
+<p align="center">
+<img src="supplementary/fa.png"  width=30%>
+</p>
 
 ---
 ## Home Assignments
@@ -60,7 +63,7 @@ In this project, our main focus in on the exploration of the Airbnb housing mark
 
 [Assignment 8](HW_8.ipynb) - Geopandas, plotly express.
 
-[Assignment 9](HW_9.ipynb) - Extracting Data from Images and Sounds - working with pySpark, classifiers map visualization and more.
+[Assignment 9](HW_9_.ipynb) - Extracting Data from Images and Sounds - working with pySpark, classifiers map visualization and more.
 
 
 
